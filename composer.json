@@ -1,0 +1,14 @@
+{
+    "require": {
+        "slim/slim": "^4.3",
+        "slim/psr7": "^0.6.0",
+        "php-di/slim-bridge": "^3.0",
+        "ext-pdo": "*",
+        "ext-json": "*",
+        "doctrine/annotations": "^1.8",
+        "ocramius/proxy-manager": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {"Tr\\": "src/Tr"}
+    }
+}
