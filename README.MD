@@ -3,12 +3,12 @@
 ## Install and Run
 ### Requirements
 1. Run the sql file(Training.sql) in mysql DB
-2. Go to public folder of this application and run php -S localhost:8888 to start server
+2. Go to public folder and run ```php -S localhost:8888``` to start server
 
-### Database with all relations refined
+### Database solution with all relations refined
 Refer to /data/sql/COURSE-ER-DIAGRAM.pdf
 
-### Interact with the API
+### Interact with the API - code solution
 
 __Get list of sessions__
 
